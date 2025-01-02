@@ -31,7 +31,7 @@ MonoBehaviour:
     upgradedSpeedEfficiency: 1.2
   - vehicle: {fileID: 3692173831116195739, guid: 6329a00a386eb0147af8d2ab399d90e3, type: 3}
     price: 15000
-    engineTorque: 270
+    engineTorque: 300
     handling: 0.4
     speed: 250
     upgradedEngineEfficiency: 1.2
@@ -39,49 +39,49 @@ MonoBehaviour:
     upgradedSpeedEfficiency: 1.2
   - vehicle: {fileID: 7980427268677955997, guid: 4ecca3471b0fad443a9c5c7b0a5b4669, type: 3}
     price: 25000
-    engineTorque: 300
+    engineTorque: 350
     handling: 0.5
-    speed: 280
+    speed: 260
     upgradedEngineEfficiency: 1.2
     upgradedHandlingEfficiency: 1.2
     upgradedSpeedEfficiency: 1.2
   - vehicle: {fileID: 5006621624428035941, guid: 1e5229632743a9249a7c430d9fca20dd, type: 3}
     price: 35000
-    engineTorque: 350
+    engineTorque: 400
     handling: 0.55
-    speed: 300
+    speed: 280
     upgradedEngineEfficiency: 1.2
     upgradedHandlingEfficiency: 1.2
     upgradedSpeedEfficiency: 1.2
   - vehicle: {fileID: 2703465802901545290, guid: c08f0f68d24951540b72e1a2ca1693a1, type: 3}
     price: 40000
-    engineTorque: 300
-    handling: 0.6
-    speed: 270
+    engineTorque: 430
+    handling: 0.7
+    speed: 250
     upgradedEngineEfficiency: 1.2
     upgradedHandlingEfficiency: 1.2
     upgradedSpeedEfficiency: 1.2
   - vehicle: {fileID: 8080618658714182301, guid: ba705e479b294ed4b95253b5661ee87a, type: 3}
     price: 45000
-    engineTorque: 370
+    engineTorque: 500
     handling: 0.6
-    speed: 305
+    speed: 290
     upgradedEngineEfficiency: 1.2
     upgradedHandlingEfficiency: 1.2
     upgradedSpeedEfficiency: 1.2
   - vehicle: {fileID: 6237544858534112699, guid: 19b578e7bfe81a34f93303102fb64214, type: 3}
     price: 55000
-    engineTorque: 400
+    engineTorque: 520
     handling: 0.65
-    speed: 310
+    speed: 300
     upgradedEngineEfficiency: 1.2
     upgradedHandlingEfficiency: 1.2
     upgradedSpeedEfficiency: 1.2
   - vehicle: {fileID: 7117172720848042439, guid: 45f3e16ac467d114db3f28199a6182ca, type: 3}
     price: 70000
-    engineTorque: 450
+    engineTorque: 550
     handling: 0.7
-    speed: 315
+    speed: 310
     upgradedEngineEfficiency: 1.2
     upgradedHandlingEfficiency: 1.2
     upgradedSpeedEfficiency: 1.2

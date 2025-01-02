@@ -6365,7 +6365,7 @@ MonoBehaviour:
   engineInertia: 0.15
   fuelInput: 0
   idleInput: 0
-  maximumTorqueAsNM: 400
+  maximumTorqueAsNM: 520
   producedTorqueAsNM: 0
   outputEvent:
     m_PersistentCalls:
@@ -25621,7 +25621,7 @@ MonoBehaviour:
   overrideDifferential: 0
   differentialType: 1
   limitedSlipRatio: 80
-  finalDriveRatio: 3.5986364
+  finalDriveRatio: 3.7127273
   receivedTorqueAsNM: 0
   producedTorqueAsNM: 0
   leftWheelRPM: 0

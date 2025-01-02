@@ -5796,7 +5796,7 @@ MonoBehaviour:
   engineInertia: 0.15
   fuelInput: 0
   idleInput: 0
-  maximumTorqueAsNM: 270
+  maximumTorqueAsNM: 300
   producedTorqueAsNM: 0
   outputEvent:
     m_PersistentCalls:
