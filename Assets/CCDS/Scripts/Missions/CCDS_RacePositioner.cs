@@ -89,6 +89,12 @@ public class CCDS_RacePositioner : ACCDS_Component {
 
     private void OnEnable() {
 
+        currentWaypointIndex = 0;
+        totalDistance = 0;
+        curDistance = 0;
+        distanceTraveled_Old = 0;
+        distanceTraveled_Last = 0;
+
         //  Get the closest waypoint if waypoint path is selected.
         if (waypointPath)
             GetClosestWaypoint();
@@ -139,6 +145,16 @@ public class CCDS_RacePositioner : ACCDS_Component {
             distanceTraveled_Last = 0f;
 
         distanceTraveled_Old = distanceTraveled_F;
+
+    }
+
+    private void OnDisable() {
+
+        currentWaypointIndex = 0;
+        totalDistance = 0;
+        curDistance = 0;
+        distanceTraveled_Old = 0;
+        distanceTraveled_Last = 0;
 
     }
 

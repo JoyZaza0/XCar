@@ -46,6 +46,9 @@ public class CCDS_MissionObjective_Race_Vehicle : ACCDS_Vehicle {
         if (CCDS_Settings.Instance.showEngineSmoke && EngineSmoke)
             EngineSmoke.gameObject.SetActive(true);
 
+        damage = 0f;
+        finished = false;
+
     }
 
     private void Update() {
